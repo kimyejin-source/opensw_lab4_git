@@ -4,6 +4,7 @@
 int main(void){
 
     foo();
-    printf("main\n");
+    goo();
+    printf("main is wonderfull!\n");
     return 0;
 }
